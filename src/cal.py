@@ -16,7 +16,7 @@ def add (a,b)
  
  def dev (a/b)
  if b==0:
- 	return none;
+ 	return none
   return(a/b)
  
  
